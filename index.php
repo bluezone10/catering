@@ -179,7 +179,7 @@ $gallery = mysqli_query($conn, "SELECT * FROM gallery");
 
         .middle-column {
             flex: 1 1 calc(50% - 20px);
-            /* One item in the middle column */
+    
             height: 420px;
         }
 

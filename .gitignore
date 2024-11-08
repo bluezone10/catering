@@ -17,3 +17,4 @@ account.php
 *.lock
 ph-address-selector2.js
 storeDetaInSession.php
+login.php
