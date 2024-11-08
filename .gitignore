@@ -1,0 +1,19 @@
+#Ignore folder
+
+ADMIN/
+ADMINPHP/
+*.zip
+PHP/
+JS/
+INCLUDE/
+IMAGE/
+CSS/
+vendor/
+ph-json/
+.vscode/
+config.php
+*.json
+account.php
+*.lock
+ph-address-selector2.js
+storeDetaInSession.php
